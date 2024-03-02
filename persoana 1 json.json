@@ -1,0 +1,13 @@
+{
+  "persoana": true,
+  "nume": "Matei Petrescu",
+  "mail": "matei.petrescu06@gmail.com",
+  "date contact": [
+    {
+      "adresa": "Bolintineanu,nr.4,bl4,parter,ap1,sc1",
+      "oras": "Constanta",
+      "numartel": "0722333444",
+      "skypeid": "matei_petrescu06"
+    }
+  ]
+}
